@@ -1,5 +1,5 @@
-## alx_travel_app_0x00
-This app is a clone of the alx_travel_app implemented aiming at defining database models, creating serializers for API data representation, and implementing a management command to seed the database.
+## 001_travel_app_0x00
+This app is a clone of the 001__travel_app implemented aiming at defining database models, creating serializers for API data representation, and implementing a management command to seed the database.
 
 ### Objectives
  - Model relational data in Django using appropriate fields, relationships, and constraints.
